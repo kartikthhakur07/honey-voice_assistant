@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+pywhatkit
+requests
+gTTS
+groq
+pygame
+openwakeword
+numpy
+pyaudio
+python-dotenv
